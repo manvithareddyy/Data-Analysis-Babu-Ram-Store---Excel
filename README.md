@@ -1,4 +1,7 @@
 # Data Analysis(Babu Ram Store)- Excel
+
+![Screenshot 2023-11-30 150026](https://github.com/manvithareddyy/Data-Analysis-Babu-Ram-Store---Excel/assets/83542651/a1d02d8a-98ed-4ae9-ab68-bd38854cdbd8)
+
 Objective-
 
 Babu Ram store wants to create an annual sales report for 2022. So that, Babu Ram can understand their customers and grow more sales in 2023.
